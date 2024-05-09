@@ -1,2 +1,2 @@
-#Scene Cut Detection in Videos
+# Scene Cut Detection in Videos
 ---
