@@ -11,11 +11,11 @@ Each directory in this repository corresponds to a specific exercise or project 
 
 ## Contents
 
-- `Exercise_1/`: Scene cut detection in videos.
-- `Exercise_2/`: Audio denoising with histogram analysis.
-- `Exercise_3/`: Image blending and creation of hybrid images.
-- `Exercise_4/`: High-resolution image blending into low-resolution images.
-- `Exercise_5/`: Deep learning-based image reconstruction using StyleGAN2.
+- `ex1/`: Scene cut detection in videos.
+- `ex2/`: Audio denoising with histogram analysis.
+- `ex3/`: Image blending and creation of hybrid images.
+- `ex4/`: High-resolution image blending into low-resolution images.
+- `ex5/`: Deep learning-based image reconstruction using StyleGAN2.
 
 Each directory includes:
 
